@@ -40,6 +40,9 @@ The dataset contains information about titles, type, country, directors, ratings
 
 ## Dashboard Features
 
+![Netflix Dashboard](dashboard.png)
+
+
 ### KPI Cards
 
 * Total Titles
